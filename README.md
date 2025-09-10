@@ -22,7 +22,7 @@ This repository contains solutions to all LeetCode SQL problems. Each solution i
             <img src="https://img.shields.io/badge/LeetCode SQL50 Roadmap -red?style=for-the-badge&logo=LeetCode&logoColor=white"> </a>
       </td>
       <td style="text-align: center; vertical-align: middle;">  <!-- Youtube  link--->
-            <a href="https://youtu.be/Ajjtm2VjvJY" target="_blank"> <img src="https://img.shields.io/badge/Video--1-CLICK%20HERE-blue?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video"> </a> 
+            <a href="https://www.youtube.com/@rajesh_data_ai" target="_blank"> <img src="https://img.shields.io/badge/Video--1-CLICK%20HERE-blue?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video"> </a> 
       </td>
       <td style="text-align: center; vertical-align: middle;"> <!-- Github Solution link--->
          <a href="https://github.com/Rajesh-Umrao/LeetCode_SQL50" target="_blank">
