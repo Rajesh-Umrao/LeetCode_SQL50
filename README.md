@@ -35,7 +35,7 @@ This repository contains solutions to all LeetCode SQL problems. Each solution i
       <td>Select</td> 
       <td style="text-align: center; vertical-align: middle;"> <!-- Question related link--->
             <a href="https://leetcode.com/problems/recyclable-and-low-fat-products/description/?envType=study-plan-v2&envId=top-sql-50" target="_blank">
-            <img src="https://img.shields.io/badge/Recyclable and Low Fat Products-purple?style=for-the-badge&logo=leetcode&logoColor=white"> </a>
+            <img src="https://img.shields.io/badge/Recyclable&Low Fat Products-purple?style=for-the-badge&logo=leetcode&logoColor=white"> </a>
       </td>
       <td style="text-align: center; vertical-align: middle;">  <!-- Youtube  link--->
             <a href="https://www.youtube.com/@rajesh_data_ai" target="_blank"> <img src="https://img.shields.io/badge/Video--2-CLICK%20HERE-blue?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video"> </a> 
@@ -111,7 +111,7 @@ This repository contains solutions to all LeetCode SQL problems. Each solution i
       <td>Basic Joins</td> 
       <td style="text-align: center; vertical-align: middle;"> <!-- Question related link--->
             <a href="https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/description/?envType=study-plan-v2&envId=top-sql-50" target="_blank">
-            <img src="https://img.shields.io/badge/Replace Employee ID with Unique-indigo?style=for-the-badge&logo=leetcode&logoColor=white"> </a>
+            <img src="https://img.shields.io/badge/Replace Employee ID-indigo?style=for-the-badge&logo=leetcode&logoColor=white"> </a>
       </td>
       <td style="text-align: center; vertical-align: middle;">  <!-- Youtube  link--->
             <a href="https://www.youtube.com/@rajesh_data_ai" target="_blank"><img src="https://img.shields.io/badge/Video--7-CLICK%20HERE-teal?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video"></a> 
@@ -145,6 +145,96 @@ This repository contains solutions to all LeetCode SQL problems. Each solution i
       </td>
       <td style="text-align: center; vertical-align: middle;">  <!-- Youtube  link--->
             <a href="https://www.youtube.com/@rajesh_data_ai" target="_blank"><img src="https://img.shields.io/badge/Video--9-CLICK%20HERE-teal?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video"></a> 
+      </td>
+      <td style="text-align: center; vertical-align: middle;"> <!-- Github Solution link--->
+         <a href="https://github.com/Rajesh-Umrao/LeetCode_SQL50" target="_blank">
+         <img src="https://img.shields.io/badge/SQL-Solution-cyan?style=for-the-badge&logo=sqlite"> </a>
+      </td>
+    </tr>
+    <!--------4)Rising Temperature------------------------------------------------------------>   
+  <tr>
+      <td>Basic Joins</td> 
+      <td style="text-align: center; vertical-align: middle;"> <!-- Question related link--->
+            <a href="https://leetcode.com/problems/Rising-Temperature/description/?envType=study-plan-v2&envId=top-sql-50" target="_blank">
+            <img src="https://img.shields.io/badge/Rising Temperature-indigo?style=for-the-badge&logo=leetcode&logoColor=white"> </a>
+      </td>
+      <td style="text-align: center; vertical-align: middle;">  <!-- Youtube  link--->
+            <a href="https://www.youtube.com/@rajesh_data_ai" target="_blank"><img src="https://img.shields.io/badge/Video--10-CLICK%20HERE-teal?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video"></a> 
+      </td>
+      <td style="text-align: center; vertical-align: middle;"> <!-- Github Solution link--->
+         <a href="https://github.com/Rajesh-Umrao/LeetCode_SQL50" target="_blank">
+         <img src="https://img.shields.io/badge/SQL-Solution-cyan?style=for-the-badge&logo=sqlite"> </a>
+      </td>
+    </tr>
+    <!--------5)Average Time of Process per Machine ------------------------------------------------------------>   
+  <tr>
+      <td>Basic Joins</td> 
+      <td style="text-align: center; vertical-align: middle;"> <!-- Question related link--->
+            <a href="https://leetcode.com/problems/Average-Time-of-Process-per-Machine/description/?envType=study-plan-v2&envId=top-sql-50" target="_blank">
+            <img src="https://img.shields.io/badge/Average Time of Process-indigo?style=for-the-badge&logo=leetcode&logoColor=white"> </a>
+      </td>
+      <td style="text-align: center; vertical-align: middle;">  <!-- Youtube  link--->
+            <a href="https://www.youtube.com/@rajesh_data_ai" target="_blank"><img src="https://img.shields.io/badge/Video--11-CLICK%20HERE-teal?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video"></a> 
+      </td>
+      <td style="text-align: center; vertical-align: middle;"> <!-- Github Solution link--->
+         <a href="https://github.com/Rajesh-Umrao/LeetCode_SQL50" target="_blank">
+         <img src="https://img.shields.io/badge/SQL-Solution-cyan?style=for-the-badge&logo=sqlite"> </a>
+      </td>
+    </tr>
+    <!--------6)Employee Bonus ------------------------------------------------------------>   
+  <tr>
+      <td>Basic Joins</td> 
+      <td style="text-align: center; vertical-align: middle;"> <!-- Question related link--->
+            <a href="https://leetcode.com/problems/Employee-Bonus/description/?envType=study-plan-v2&envId=top-sql-50" target="_blank">
+            <img src="https://img.shields.io/badge/Employee Bonus-indigo?style=for-the-badge&logo=leetcode&logoColor=white"> </a>
+      </td>
+      <td style="text-align: center; vertical-align: middle;">  <!-- Youtube  link--->
+            <a href="https://www.youtube.com/@rajesh_data_ai" target="_blank"><img src="https://img.shields.io/badge/Video--12-CLICK%20HERE-teal?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video"></a> 
+      </td>
+      <td style="text-align: center; vertical-align: middle;"> <!-- Github Solution link--->
+         <a href="https://github.com/Rajesh-Umrao/LeetCode_SQL50" target="_blank">
+         <img src="https://img.shields.io/badge/SQL-Solution-cyan?style=for-the-badge&logo=sqlite"> </a>
+      </td>
+    </tr>
+    <!--------7)Students and Examinations ------------------------------------------------------------>   
+  <tr>
+      <td>Basic Joins</td> 
+      <td style="text-align: center; vertical-align: middle;"> <!-- Question related link--->
+            <a href="https://leetcode.com/problems/Students-and-Examinations/description/?envType=study-plan-v2&envId=top-sql-50" target="_blank">
+            <img src="https://img.shields.io/badge/Students and Examinations-indigo?style=for-the-badge&logo=leetcode&logoColor=white"> </a>
+      </td>
+      <td style="text-align: center; vertical-align: middle;">  <!-- Youtube  link--->
+            <a href="https://www.youtube.com/@rajesh_data_ai" target="_blank"><img src="https://img.shields.io/badge/Video--13-CLICK%20HERE-teal?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video"></a> 
+      </td>
+      <td style="text-align: center; vertical-align: middle;"> <!-- Github Solution link--->
+         <a href="https://github.com/Rajesh-Umrao/LeetCode_SQL50" target="_blank">
+         <img src="https://img.shields.io/badge/SQL-Solution-cyan?style=for-the-badge&logo=sqlite"> </a>
+      </td>
+    </tr>
+    <!--------8)Managers with at Least 5 Direct Reports ------------------------------------------------------------>   
+  <tr>
+      <td>Basic Joins</td> 
+      <td style="text-align: center; vertical-align: middle;"> <!-- Question related link--->
+            <a href="https://leetcode.com/problems/Managers-with-at-Least-5-Direct-Reports/description/?envType=study-plan-v2&envId=top-sql-50" target="_blank">
+            <img src="https://img.shields.io/badge/Managers with 5 Direct Reports-indigo?style=for-the-badge&logo=leetcode&logoColor=white"> </a>
+      </td>
+      <td style="text-align: center; vertical-align: middle;">  <!-- Youtube  link--->
+            <a href="https://www.youtube.com/@rajesh_data_ai" target="_blank"><img src="https://img.shields.io/badge/Video--14-CLICK%20HERE-teal?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video"></a> 
+      </td>
+      <td style="text-align: center; vertical-align: middle;"> <!-- Github Solution link--->
+         <a href="https://github.com/Rajesh-Umrao/LeetCode_SQL50" target="_blank">
+         <img src="https://img.shields.io/badge/SQL-Solution-cyan?style=for-the-badge&logo=sqlite"> </a>
+      </td>
+    </tr>
+    <!--------9)Confirmation Rate ------------------------------------------------------------>   
+  <tr>
+      <td>Basic Joins</td> 
+      <td style="text-align: center; vertical-align: middle;"> <!-- Question related link--->
+            <a href="https://leetcode.com/problems/Confirmation-Rate/description/?envType=study-plan-v2&envId=top-sql-50" target="_blank">
+            <img src="https://img.shields.io/badge/Confirmation Rate-indigo?style=for-the-badge&logo=leetcode&logoColor=white"> </a>
+      </td>
+      <td style="text-align: center; vertical-align: middle;">  <!-- Youtube  link--->
+            <a href="https://www.youtube.com/@rajesh_data_ai" target="_blank"><img src="https://img.shields.io/badge/Video--15-CLICK%20HERE-teal?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video"></a> 
       </td>
       <td style="text-align: center; vertical-align: middle;"> <!-- Github Solution link--->
          <a href="https://github.com/Rajesh-Umrao/LeetCode_SQL50" target="_blank">
