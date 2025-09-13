@@ -362,123 +362,109 @@ This repository contains solutions to all LeetCode SQL problems. Each solution i
          <img src="https://img.shields.io/badge/SQL-Solution-magenta?style=for-the-badge&logo=sqlite"> </a>
       </td>
     </tr>
-    <!---------------BASIC JOIN--------Population Census------------------------------------------------------------->   
+    <!---------------Sorting and Grouping ------------------------------------------------------------------>  
+    <!---------------1)Number of Unique Subjects Taught by Each Teacher  ------------------------------------------------------------->   
   <tr>
-      <td>Basic Join </td> 
+      <td>Sorting & Grouping </td> 
       <td style="text-align: center; vertical-align: middle;"> <!-- Question related link--->
-            <a href="https://www.hackerrank.com/challenges/asian-population/problem?isFullScreen=true" target="_blank">
-            <img src="https://img.shields.io/badge/Population Census-navy?style=for-the-badge&logo=hackerrank&logoColor=white"> </a>
+            <a href="https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/description/?envType=study-plan-v2&envId=top-sql-50" target="_blank">
+            <img src="https://img.shields.io/badge/Number of Unique Subjects-navy?style=for-the-badge&logo=LeetCode&logoColor=white"> </a>
       </td>
       <td style="text-align: center; vertical-align: middle;">  <!-- Youtube  link--->
-            <a href="https://youtu.be/j8jzDDPgW4o" target="_blank"><img src="https://img.shields.io/badge/Video--37-CLICK%20HERE-orange?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video"></a> 
+            <a href="https://www.youtube.com/@rajesh_data_ai" target="_blank"><img src="https://img.shields.io/badge/Video--24-CLICK%20HERE-orange?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video"></a> 
       </td>
       <td style="text-align: center; vertical-align: middle;"> <!-- Github Solution link--->
-         <a href="https://github.com/Rajesh-Umrao/HackerRank_SQL_Solution_Series/blob/main/37)YT_Video_Solution" target="_blank">
+         <a href="https://github.com/Rajesh-Umrao/LeetCode_SQL50" target="_blank">
          <img src="https://img.shields.io/badge/SQL-Solution-tan?style=for-the-badge&logo=sqlite"> </a>
       </td>
     </tr>
-     <!---------------BASIC JOIN--------African Cities------------------------------------------------------------>   
+    <!---------------2)User Activity for the Past 30 Days I  ------------------------------------------------------------->   
   <tr>
-      <td>Basic Join </td> 
+      <td>Sorting & Grouping </td> 
       <td style="text-align: center; vertical-align: middle;"> <!-- Question related link--->
-            <a href="https://www.hackerrank.com/challenges/african-cities/problem?isFullScreen=true" target="_blank">
-            <img src="https://img.shields.io/badge/African Cities-navy?style=for-the-badge&logo=hackerrank&logoColor=white"> </a>
+            <a href="https://leetcode.com/problems/User-Activity-for-the-Past-30-Days-I/description/?envType=study-plan-v2&envId=top-sql-50" target="_blank">
+            <img src="https://img.shields.io/badge/User Activity Past 30 Days I-navy?style=for-the-badge&logo=LeetCode&logoColor=white"> </a>
       </td>
       <td style="text-align: center; vertical-align: middle;">  <!-- Youtube  link--->
-            <a href="https://youtu.be/j8jzDDPgW4o" target="_blank"><img src="https://img.shields.io/badge/Video--37-CLICK%20HERE-orange?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video"></a> 
+            <a href="https://www.youtube.com/@rajesh_data_ai" target="_blank"><img src="https://img.shields.io/badge/Video--25-CLICK%20HERE-orange?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video"></a> 
       </td>
       <td style="text-align: center; vertical-align: middle;"> <!-- Github Solution link--->
-         <a href="https://github.com/Rajesh-Umrao/HackerRank_SQL_Solution_Series/blob/main/37)YT_Video_Solution" target="_blank">
+         <a href="https://github.com/Rajesh-Umrao/LeetCode_SQL50" target="_blank">
          <img src="https://img.shields.io/badge/SQL-Solution-tan?style=for-the-badge&logo=sqlite"> </a>
       </td>
     </tr>
-  <!---------------BASIC JOIN--------Average Population of Each Continent------------------------------------------------------------>   
+    <!---------------3)Product Sales Analysis III  ------------------------------------------------------------->   
   <tr>
-      <td>Basic Join </td> 
+      <td>Sorting & Grouping </td> 
       <td style="text-align: center; vertical-align: middle;"> <!-- Question related link--->
-            <a href="https://www.hackerrank.com/challenges/average-population-of-each-continent/problem?isFullScreen=true" target="_blank">
-            <img src="https://img.shields.io/badge/Avg. Population per Continent-navy?style=for-the-badge&logo=hackerrank&logoColor=white"> </a>
+            <a href="https://leetcode.com/problems/Product-Sales-Analysis-III/description/?envType=study-plan-v2&envId=top-sql-50" target="_blank">
+            <img src="https://img.shields.io/badge/Product Sales Analysis III-navy?style=for-the-badge&logo=LeetCode&logoColor=white"> </a>
       </td>
       <td style="text-align: center; vertical-align: middle;">  <!-- Youtube  link--->
-            <a href="https://youtu.be/j8jzDDPgW4o" target="_blank"><img src="https://img.shields.io/badge/Video--37-CLICK%20HERE-orange?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video"></a> 
+            <a href="https://www.youtube.com/@rajesh_data_ai" target="_blank"><img src="https://img.shields.io/badge/Video--26-CLICK%20HERE-orange?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video"></a> 
       </td>
       <td style="text-align: center; vertical-align: middle;"> <!-- Github Solution link--->
-         <a href="https://github.com/Rajesh-Umrao/HackerRank_SQL_Solution_Series/blob/main/37)YT_Video_Solution" target="_blank">
+         <a href="https://github.com/Rajesh-Umrao/LeetCode_SQL50" target="_blank">
          <img src="https://img.shields.io/badge/SQL-Solution-tan?style=for-the-badge&logo=sqlite"> </a>
       </td>
     </tr>
-    <!---------------BASIC JOIN--------Top Competitors------------------------------------------------------------>   
+    <!---------------4)Classes With at Least 5 Students  ------------------------------------------------------------->   
   <tr>
-      <td>Basic Join </td> 
+      <td>Sorting & Grouping </td> 
       <td style="text-align: center; vertical-align: middle;"> <!-- Question related link--->
-            <a href="https://www.hackerrank.com/challenges/full-score/problem?isFullScreen=true" target="_blank">
-            <img src="https://img.shields.io/badge/Top Competitors-navy?style=for-the-badge&logo=hackerrank&logoColor=white"> </a>
+            <a href="https://leetcode.com/problems/Classes-With-at-Least-5-Students/description/?envType=study-plan-v2&envId=top-sql-50" target="_blank">
+            <img src="https://img.shields.io/badge/Classes With 5 Students-navy?style=for-the-badge&logo=LeetCode&logoColor=white"> </a>
       </td>
       <td style="text-align: center; vertical-align: middle;">  <!-- Youtube  link--->
-            <a href="https://youtu.be/z8TkGu9nYpM" target="_blank"><img src="https://img.shields.io/badge/Video--38-CLICK%20HERE-orange?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video"></a> 
+            <a href="https://www.youtube.com/@rajesh_data_ai" target="_blank"><img src="https://img.shields.io/badge/Video--27-CLICK%20HERE-orange?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video"></a> 
       </td>
       <td style="text-align: center; vertical-align: middle;"> <!-- Github Solution link--->
-         <a href="https://github.com/Rajesh-Umrao/HackerRank_SQL_Solution_Series/blob/main/38)YT_Video_Solution" target="_blank">
+         <a href="https://github.com/Rajesh-Umrao/LeetCode_SQL50" target="_blank">
          <img src="https://img.shields.io/badge/SQL-Solution-tan?style=for-the-badge&logo=sqlite"> </a>
       </td>
     </tr>
-    <!---------------BASIC JOIN--------The Report------------------------------------------------------------>   
+    <!---------------5)Find Followers Count  ------------------------------------------------------------->   
   <tr>
-      <td>Basic Join </td> 
+      <td>Sorting & Grouping </td> 
       <td style="text-align: center; vertical-align: middle;"> <!-- Question related link--->
-            <a href="https://www.hackerrank.com/challenges/the-report/problem?isFullScreen=true" target="_blank">
-            <img src="https://img.shields.io/badge/The Report-navy?style=for-the-badge&logo=hackerrank&logoColor=white"> </a>
+            <a href="https://leetcode.com/problems/Find-Followers-Count/description/?envType=study-plan-v2&envId=top-sql-50" target="_blank">
+            <img src="https://img.shields.io/badge/Find Followers Count-navy?style=for-the-badge&logo=LeetCode&logoColor=white"> </a>
       </td>
       <td style="text-align: center; vertical-align: middle;">  <!-- Youtube  link--->
-            <a href="https://youtu.be/m6I53vVZJP0" target="_blank"><img src="https://img.shields.io/badge/Video--39-CLICK%20HERE-orange?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video"></a> 
+            <a href="https://www.youtube.com/@rajesh_data_ai" target="_blank"><img src="https://img.shields.io/badge/Video--28-CLICK%20HERE-orange?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video"></a> 
       </td>
       <td style="text-align: center; vertical-align: middle;"> <!-- Github Solution link--->
-         <a href="https://github.com/Rajesh-Umrao/HackerRank_SQL_Solution_Series/blob/main/39)YT_Video_Solution" target="_blank">
+         <a href="https://github.com/Rajesh-Umrao/LeetCode_SQL50" target="_blank">
          <img src="https://img.shields.io/badge/SQL-Solution-tan?style=for-the-badge&logo=sqlite"> </a>
       </td>
     </tr>
-    <!---------------BASIC JOIN--------Ollivander's Inventory------------------------------------------------------------>   
+  <!---------------6)Biggest Single Number ------------------------------------------------------------->   
   <tr>
-      <td>Basic Join </td> 
+      <td>Sorting & Grouping </td> 
       <td style="text-align: center; vertical-align: middle;"> <!-- Question related link--->
-            <a href="https://www.hackerrank.com/challenges/harry-potter-and-wands/problem?isFullScreen=true" target="_blank">
-            <img src="https://img.shields.io/badge/Ollivander's Inventory-navy?style=for-the-badge&logo=hackerrank&logoColor=white"> </a>
+            <a href="https://leetcode.com/problems/Biggest-Single-Number/description/?envType=study-plan-v2&envId=top-sql-50" target="_blank">
+            <img src="https://img.shields.io/badge/Biggest Single Number-navy?style=for-the-badge&logo=LeetCode&logoColor=white"> </a>
       </td>
       <td style="text-align: center; vertical-align: middle;">  <!-- Youtube  link--->
-            <a href="https://youtu.be/5nwCBByYrug" target="_blank"><img src="https://img.shields.io/badge/Video--40-CLICK%20HERE-orange?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video"></a> 
+            <a href="https://www.youtube.com/@rajesh_data_ai" target="_blank"><img src="https://img.shields.io/badge/Video--29-CLICK%20HERE-orange?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video"></a> 
       </td>
       <td style="text-align: center; vertical-align: middle;"> <!-- Github Solution link--->
-         <a href="https://github.com/Rajesh-Umrao/HackerRank_SQL_Solution_Series/blob/main/40)YT_Video_Solution" target="_blank">
+         <a href="https://github.com/Rajesh-Umrao/LeetCode_SQL50" target="_blank">
          <img src="https://img.shields.io/badge/SQL-Solution-tan?style=for-the-badge&logo=sqlite"> </a>
       </td>
     </tr>
-    <!---------------BASIC JOIN--------Challenges------------------------------------------------------------>   
+  <!---------------7)Customers Who Bought All Products ------------------------------------------------------------->   
   <tr>
-      <td>Basic Join </td> 
+      <td>Sorting & Grouping </td> 
       <td style="text-align: center; vertical-align: middle;"> <!-- Question related link--->
-            <a href="https://www.hackerrank.com/challenges/challenges/problem?isFullScreen=true" target="_blank">
-            <img src="https://img.shields.io/badge/Challenges-navy?style=for-the-badge&logo=hackerrank&logoColor=white"> </a>
+            <a href="https://leetcode.com/problems/Customers-Who-Bought-All-Products/description/?envType=study-plan-v2&envId=top-sql-50" target="_blank">
+            <img src="https://img.shields.io/badge/Customers Who Bought All-navy?style=for-the-badge&logo=LeetCode&logoColor=white"> </a>
       </td>
       <td style="text-align: center; vertical-align: middle;">  <!-- Youtube  link--->
-            <a href="https://youtu.be/F4m-0TQ-IyM" target="_blank"><img src="https://img.shields.io/badge/Video--41-CLICK%20HERE-orange?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video"></a> 
+            <a href="https://www.youtube.com/@rajesh_data_ai" target="_blank"><img src="https://img.shields.io/badge/Video--30-CLICK%20HERE-orange?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video"></a> 
       </td>
       <td style="text-align: center; vertical-align: middle;"> <!-- Github Solution link--->
-         <a href="https://github.com/Rajesh-Umrao/HackerRank_SQL_Solution_Series/blob/main/41)YT_Video_Solution" target="_blank">
-         <img src="https://img.shields.io/badge/SQL-Solution-tan?style=for-the-badge&logo=sqlite"> </a>
-      </td>
-    </tr>
-    <!---------------BASIC JOIN--------Contest Leaderboard------------------------------------------------------------>   
-  <tr>
-      <td>Basic Join </td> 
-      <td style="text-align: center; vertical-align: middle;"> <!-- Question related link--->
-            <a href="https://www.hackerrank.com/challenges/contest-leaderboard/problem?isFullScreen=true" target="_blank">
-            <img src="https://img.shields.io/badge/Contest Leaderboard-navy?style=for-the-badge&logo=hackerrank&logoColor=white"> </a>
-      </td>
-      <td style="text-align: center; vertical-align: middle;">  <!-- Youtube  link--->
-            <a href="https://youtu.be/ocVwzOhtlCU" target="_blank"><img src="https://img.shields.io/badge/Video--42-CLICK%20HERE-orange?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video"></a> 
-      </td>
-      <td style="text-align: center; vertical-align: middle;"> <!-- Github Solution link--->
-         <a href="https://github.com/Rajesh-Umrao/HackerRank_SQL_Solution_Series/blob/main/42)YT_Video_Solution" target="_blank">
+         <a href="https://github.com/Rajesh-Umrao/LeetCode_SQL50" target="_blank">
          <img src="https://img.shields.io/badge/SQL-Solution-tan?style=for-the-badge&logo=sqlite"> </a>
       </td>
     </tr>
