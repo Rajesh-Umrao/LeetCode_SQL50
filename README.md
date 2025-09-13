@@ -577,7 +577,7 @@ This repository contains solutions to all LeetCode SQL problems. Each solution i
 <!---------------Subqueries----------------------------------------------------------->  
 <!---------------1)Employees Whose Manager Left the Company ------------------------------------------------------------->   
   <tr>
-      <td>Advanced Select & Joins </td> 
+      <td>Subqueries </td> 
       <td style="text-align: center; vertical-align: middle;"> <!-- Question related link--->
             <a href="https://leetcode.com/problems/Employees-Whose-Manager-Left-the-Company/description/?envType=study-plan-v2&envId=top-sql-50" target="_blank">
             <img src="https://img.shields.io/badge/Employees Whose Manager Left-saddlebrown?style=for-the-badge&logo=LeetCode&logoColor=white"> </a>
@@ -592,7 +592,7 @@ This repository contains solutions to all LeetCode SQL problems. Each solution i
     </tr>
 <!---------------2)Exchange Seats ------------------------------------------------------------->   
   <tr>
-      <td>Advanced Select & Joins </td> 
+      <td>Subqueries </td> 
       <td style="text-align: center; vertical-align: middle;"> <!-- Question related link--->
             <a href="https://leetcode.com/problems/Exchange-Seats/description/?envType=study-plan-v2&envId=top-sql-50" target="_blank">
             <img src="https://img.shields.io/badge/Exchange Seats-saddlebrown?style=for-the-badge&logo=LeetCode&logoColor=white"> </a>
@@ -607,7 +607,7 @@ This repository contains solutions to all LeetCode SQL problems. Each solution i
     </tr>
 <!---------------3)Movie Rating------------------------------------------------------------->   
   <tr>
-      <td>Advanced Select & Joins </td> 
+      <td>Subqueries</td> 
       <td style="text-align: center; vertical-align: middle;"> <!-- Question related link--->
             <a href="https://leetcode.com/problems/Movie-Rating/description/?envType=study-plan-v2&envId=top-sql-50" target="_blank">
             <img src="https://img.shields.io/badge/Movie Rating-saddlebrown?style=for-the-badge&logo=LeetCode&logoColor=white"> </a>
@@ -622,7 +622,7 @@ This repository contains solutions to all LeetCode SQL problems. Each solution i
     </tr>
 <!---------------4)Restaurant Growth ------------------------------------------------------------->   
   <tr>
-      <td>Advanced Select & Joins </td> 
+      <td>Subqueries</td> 
       <td style="text-align: center; vertical-align: middle;"> <!-- Question related link--->
             <a href="https://leetcode.com/problems/Restaurant-Growth/description/?envType=study-plan-v2&envId=top-sql-50" target="_blank">
             <img src="https://img.shields.io/badge/Restaurant Growth-saddlebrown?style=for-the-badge&logo=LeetCode&logoColor=white"> </a>
@@ -637,7 +637,7 @@ This repository contains solutions to all LeetCode SQL problems. Each solution i
     </tr>
 <!---------------5)Friend Requests II: Who Has the Most Friends ------------------------------------------------------------->   
   <tr>
-      <td>Advanced Select & Joins </td> 
+      <td>Subqueries</td> 
       <td style="text-align: center; vertical-align: middle;"> <!-- Question related link--->
             <a href="https://leetcode.com/problems/Friend-Requests-II-Who-Has-the-Most-Friends/description/?envType=study-plan-v2&envId=top-sql-50" target="_blank">
             <img src="https://img.shields.io/badge/Friend Requests II-saddlebrown?style=for-the-badge&logo=LeetCode&logoColor=white"> </a>
@@ -652,7 +652,7 @@ This repository contains solutions to all LeetCode SQL problems. Each solution i
     </tr>
 <!---------------6)Investments in 2016 ------------------------------------------------------------->   
   <tr>
-      <td>Advanced Select & Joins </td> 
+      <td>Subqueries </td> 
       <td style="text-align: center; vertical-align: middle;"> <!-- Question related link--->
             <a href="https://leetcode.com/problems/Investments-in-2016/description/?envType=study-plan-v2&envId=top-sql-50" target="_blank">
             <img src="https://img.shields.io/badge/Investments in 2016-saddlebrown?style=for-the-badge&logo=LeetCode&logoColor=white"> </a>
@@ -667,7 +667,7 @@ This repository contains solutions to all LeetCode SQL problems. Each solution i
     </tr>
 <!---------------7)Department Top Three Salaries ------------------------------------------------------------->   
   <tr>
-      <td>Advanced Select & Joins </td> 
+      <td>Subqueries </td> 
       <td style="text-align: center; vertical-align: middle;"> <!-- Question related link--->
             <a href="https://leetcode.com/problems/Department-Top-Three-Salaries/description/?envType=study-plan-v2&envId=top-sql-50" target="_blank">
             <img src="https://img.shields.io/badge/Department Top Three Salaries-saddlebrown?style=for-the-badge&logo=LeetCode&logoColor=white"> </a>
@@ -680,11 +680,112 @@ This repository contains solutions to all LeetCode SQL problems. Each solution i
          <img src="https://img.shields.io/badge/SQL-Solution-powderblue?style=for-the-badge&logo=sqlite"> </a>
       </td>
     </tr>
-
-
-
-
-
+ <!--------------- Advanced String Functions / Regex / Clause ------------------------------------------------------------>  
+  <!---------------1)Fix Names in a Table ------------------------------------------------------------->   
+  <tr>
+      <td>Advanced String Functions </td> 
+      <td style="text-align: center; vertical-align: middle;"> <!-- Question related link--->
+            <a href="https://leetcode.com/problems/Fix-Names-in-a-Table/description/?envType=study-plan-v2&envId=top-sql-50" target="_blank">
+            <img src="https://img.shields.io/badge/Fix Names in a Table-indigo?style=for-the-badge&logo=LeetCode&logoColor=white"> </a>
+      </td>
+      <td style="text-align: center; vertical-align: middle;">  <!-- Youtube  link--->
+            <a href="https://www.youtube.com/@rajesh_data_ai" target="_blank"><img src="https://img.shields.io/badge/Video--45-CLICK%20HERE-blue?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video"></a> 
+      </td>
+      <td style="text-align: center; vertical-align: middle;"> <!-- Github Solution link--->
+         <a href="https://github.com/Rajesh-Umrao/LeetCode_SQL50" target="_blank">
+         <img src="https://img.shields.io/badge/SQL-Solution-peachpuff?style=for-the-badge&logo=sqlite"> </a>
+      </td>
+    </tr>
+  <!---------------2)Patients With a Condition ------------------------------------------------------------->   
+  <tr>
+      <td>Advanced String Functions </td> 
+      <td style="text-align: center; vertical-align: middle;"> <!-- Question related link--->
+            <a href="https://leetcode.com/problems/Patients-With-a-Condition/description/?envType=study-plan-v2&envId=top-sql-50" target="_blank">
+            <img src="https://img.shields.io/badge/Patients With a Condition-indigo?style=for-the-badge&logo=LeetCode&logoColor=white"> </a>
+      </td>
+      <td style="text-align: center; vertical-align: middle;">  <!-- Youtube  link--->
+            <a href="https://www.youtube.com/@rajesh_data_ai" target="_blank"><img src="https://img.shields.io/badge/Video--46-CLICK%20HERE-blue?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video"></a> 
+      </td>
+      <td style="text-align: center; vertical-align: middle;"> <!-- Github Solution link--->
+         <a href="https://github.com/Rajesh-Umrao/LeetCode_SQL50" target="_blank">
+         <img src="https://img.shields.io/badge/SQL-Solution-peachpuff?style=for-the-badge&logo=sqlite"> </a>
+      </td>
+    </tr>
+ <!---------------3)Delete Duplicate Emails------------------------------------------------------------->   
+  <tr>
+      <td>Advanced String Functions </td> 
+      <td style="text-align: center; vertical-align: middle;"> <!-- Question related link--->
+            <a href="https://leetcode.com/problems/Delete-Duplicate-Emails/description/?envType=study-plan-v2&envId=top-sql-50" target="_blank">
+            <img src="https://img.shields.io/badge/Delete Duplicate Emails-indigo?style=for-the-badge&logo=LeetCode&logoColor=white"> </a>
+      </td>
+      <td style="text-align: center; vertical-align: middle;">  <!-- Youtube  link--->
+            <a href="https://www.youtube.com/@rajesh_data_ai" target="_blank"><img src="https://img.shields.io/badge/Video--47-CLICK%20HERE-blue?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video"></a> 
+      </td>
+      <td style="text-align: center; vertical-align: middle;"> <!-- Github Solution link--->
+         <a href="https://github.com/Rajesh-Umrao/LeetCode_SQL50" target="_blank">
+         <img src="https://img.shields.io/badge/SQL-Solution-peachpuff?style=for-the-badge&logo=sqlite"> </a>
+      </td>
+    </tr>
+<!---------------4)Second Highest Salary ------------------------------------------------------------->   
+  <tr>
+      <td>Advanced String Functions </td> 
+      <td style="text-align: center; vertical-align: middle;"> <!-- Question related link--->
+            <a href="https://leetcode.com/problems/Second-Highest-Salary/description/?envType=study-plan-v2&envId=top-sql-50" target="_blank">
+            <img src="https://img.shields.io/badge/Second Highest Salary-indigo?style=for-the-badge&logo=LeetCode&logoColor=white"> </a>
+      </td>
+      <td style="text-align: center; vertical-align: middle;">  <!-- Youtube  link--->
+            <a href="https://www.youtube.com/@rajesh_data_ai" target="_blank"><img src="https://img.shields.io/badge/Video--48-CLICK%20HERE-blue?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video"></a> 
+      </td>
+      <td style="text-align: center; vertical-align: middle;"> <!-- Github Solution link--->
+         <a href="https://github.com/Rajesh-Umrao/LeetCode_SQL50" target="_blank">
+         <img src="https://img.shields.io/badge/SQL-Solution-peachpuff?style=for-the-badge&logo=sqlite"> </a>
+      </td>
+    </tr>
+  <!---------------5)Group Sold Products By The Date ------------------------------------------------------------->   
+  <tr>
+      <td>Advanced String Functions </td> 
+      <td style="text-align: center; vertical-align: middle;"> <!-- Question related link--->
+            <a href="https://leetcode.com/problems/Group-Sold-Products-By-The-Date/description/?envType=study-plan-v2&envId=top-sql-50" target="_blank">
+            <img src="https://img.shields.io/badge/Group Sold Products By The Date-indigo?style=for-the-badge&logo=LeetCode&logoColor=white"> </a>
+      </td>
+      <td style="text-align: center; vertical-align: middle;">  <!-- Youtube  link--->
+            <a href="https://www.youtube.com/@rajesh_data_ai" target="_blank"><img src="https://img.shields.io/badge/Video--49-CLICK%20HERE-blue?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video"></a> 
+      </td>
+      <td style="text-align: center; vertical-align: middle;"> <!-- Github Solution link--->
+         <a href="https://github.com/Rajesh-Umrao/LeetCode_SQL50" target="_blank">
+         <img src="https://img.shields.io/badge/SQL-Solution-peachpuff?style=for-the-badge&logo=sqlite"> </a>
+      </td>
+    </tr>
+  <!---------------6)List the Products Ordered in a Period ------------------------------------------------------------->   
+  <tr>
+      <td>Advanced String Functions </td> 
+      <td style="text-align: center; vertical-align: middle;"> <!-- Question related link--->
+            <a href="https://leetcode.com/problems/List-the-Products-Ordered-in-a-Period/description/?envType=study-plan-v2&envId=top-sql-50" target="_blank">
+            <img src="https://img.shields.io/badge/List the Products Ordered-indigo?style=for-the-badge&logo=LeetCode&logoColor=white"> </a>
+      </td>
+      <td style="text-align: center; vertical-align: middle;">  <!-- Youtube  link--->
+            <a href="https://www.youtube.com/@rajesh_data_ai" target="_blank"><img src="https://img.shields.io/badge/Video--50-CLICK%20HERE-blue?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video"></a> 
+      </td>
+      <td style="text-align: center; vertical-align: middle;"> <!-- Github Solution link--->
+         <a href="https://github.com/Rajesh-Umrao/LeetCode_SQL50" target="_blank">
+         <img src="https://img.shields.io/badge/SQL-Solution-peachpuff?style=for-the-badge&logo=sqlite"> </a>
+      </td>
+    </tr>
+  <!---------------7)Find Users With Valid E-Mails ------------------------------------------------------------->   
+  <tr>
+      <td>Advanced String Functions </td> 
+      <td style="text-align: center; vertical-align: middle;"> <!-- Question related link--->
+            <a href="https://leetcode.com/problems/Find-Users-With-Valid-E-Mails/description/?envType=study-plan-v2&envId=top-sql-50" target="_blank">
+            <img src="https://img.shields.io/badge/Find Users With Valid EMails-indigo?style=for-the-badge&logo=LeetCode&logoColor=white"> </a>
+      </td>
+      <td style="text-align: center; vertical-align: middle;">  <!-- Youtube  link--->
+            <a href="https://www.youtube.com/@rajesh_data_ai" target="_blank"><img src="https://img.shields.io/badge/Video--51-CLICK%20HERE-blue?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video"></a> 
+      </td>
+      <td style="text-align: center; vertical-align: middle;"> <!-- Github Solution link--->
+         <a href="https://github.com/Rajesh-Umrao/LeetCode_SQL50" target="_blank">
+         <img src="https://img.shields.io/badge/SQL-Solution-peachpuff?style=for-the-badge&logo=sqlite"> </a>
+      </td>
+    </tr>
 
 
 
