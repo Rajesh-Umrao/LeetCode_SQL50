@@ -574,54 +574,112 @@ This repository contains solutions to all LeetCode SQL problems. Each solution i
          <img src="https://img.shields.io/badge/SQL-Solution-pink?style=for-the-badge&logo=sqlite"> </a>
       </td>
     </tr>
-  <!---------------ALTERNATIVE QUERIES-------Draw The Triangle 1----------------------------------------------------------->   
+<!---------------Subqueries----------------------------------------------------------->  
+<!---------------1)Employees Whose Manager Left the Company ------------------------------------------------------------->   
   <tr>
-      <td>Alternative Queries </td> 
+      <td>Advanced Select & Joins </td> 
       <td style="text-align: center; vertical-align: middle;"> <!-- Question related link--->
-            <a href="https://www.hackerrank.com/challenges/draw-the-triangle-1/problem?isFullScreen=true" target="_blank">
-            <img src="https://img.shields.io/badge/Draw The Triangle 1-saddlebrown?style=for-the-badge&logo=hackerrank&logoColor=white"> </a>
+            <a href="https://leetcode.com/problems/Employees-Whose-Manager-Left-the-Company/description/?envType=study-plan-v2&envId=top-sql-50" target="_blank">
+            <img src="https://img.shields.io/badge/Employees Whose Manager Left-saddlebrown?style=for-the-badge&logo=LeetCode&logoColor=white"> </a>
       </td>
       <td style="text-align: center; vertical-align: middle;">  <!-- Youtube  link--->
-            <a href="https://youtu.be/DnC-IjGQ_ws" target="_blank"><img src="https://img.shields.io/badge/Video--48-CLICK%20HERE-honeydew?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video"></a> 
+            <a href="https://www.youtube.com/@rajesh_data_ai" target="_blank"><img src="https://img.shields.io/badge/Video--38-CLICK%20HERE-honeydew?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video"></a> 
       </td>
       <td style="text-align: center; vertical-align: middle;"> <!-- Github Solution link--->
-         <a href="https://github.com/Rajesh-Umrao/HackerRank_SQL_Solution_Series/blob/main/48)YT_Video_Solution" target="_blank">
+         <a href="https://github.com/Rajesh-Umrao/LeetCode_SQL50" target="_blank">
          <img src="https://img.shields.io/badge/SQL-Solution-powderblue?style=for-the-badge&logo=sqlite"> </a>
       </td>
     </tr>
-  
-<!---------------ALTERNATIVE QUERIES-------Draw The Triangle 2----------------------------------------------------------->   
+<!---------------2)Exchange Seats ------------------------------------------------------------->   
   <tr>
-      <td>Alternative Queries </td> 
+      <td>Advanced Select & Joins </td> 
       <td style="text-align: center; vertical-align: middle;"> <!-- Question related link--->
-            <a href="https://www.hackerrank.com/challenges/draw-the-triangle-2/problem?isFullScreen=true" target="_blank">
-            <img src="https://img.shields.io/badge/Draw The Triangle 2-saddlebrown?style=for-the-badge&logo=hackerrank&logoColor=white"> </a>
+            <a href="https://leetcode.com/problems/Exchange-Seats/description/?envType=study-plan-v2&envId=top-sql-50" target="_blank">
+            <img src="https://img.shields.io/badge/Exchange Seats-saddlebrown?style=for-the-badge&logo=LeetCode&logoColor=white"> </a>
       </td>
       <td style="text-align: center; vertical-align: middle;">  <!-- Youtube  link--->
-            <a href="https://youtu.be/nXE2lKvPoAE" target="_blank"><img src="https://img.shields.io/badge/Video--49-CLICK%20HERE-honeydew?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video"></a> 
+            <a href="https://www.youtube.com/@rajesh_data_ai" target="_blank"><img src="https://img.shields.io/badge/Video--39-CLICK%20HERE-honeydew?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video"></a> 
       </td>
       <td style="text-align: center; vertical-align: middle;"> <!-- Github Solution link--->
-         <a href="https://github.com/Rajesh-Umrao/HackerRank_SQL_Solution_Series/blob/main/49)YT_Video_Solution" target="_blank">
+         <a href="https://github.com/Rajesh-Umrao/LeetCode_SQL50" target="_blank">
          <img src="https://img.shields.io/badge/SQL-Solution-powderblue?style=for-the-badge&logo=sqlite"> </a>
       </td>
     </tr>
-  <!---------------ALTERNATIVE QUERIES-------Print Prime Numbers----------------------------------------------------------->   
+<!---------------3)Movie Rating------------------------------------------------------------->   
   <tr>
-      <td>Alternative Queries </td> 
+      <td>Advanced Select & Joins </td> 
       <td style="text-align: center; vertical-align: middle;"> <!-- Question related link--->
-            <a href="https://www.hackerrank.com/challenges/print-prime-numbers/problem?isFullScreen=true" target="_blank">
-            <img src="https://img.shields.io/badge/Print Prime Numbers-saddlebrown?style=for-the-badge&logo=hackerrank&logoColor=white"> </a>
+            <a href="https://leetcode.com/problems/Movie-Rating/description/?envType=study-plan-v2&envId=top-sql-50" target="_blank">
+            <img src="https://img.shields.io/badge/Movie Rating-saddlebrown?style=for-the-badge&logo=LeetCode&logoColor=white"> </a>
       </td>
       <td style="text-align: center; vertical-align: middle;">  <!-- Youtube  link--->
-            <a href="https://youtu.be/WfsN1Op8IiE" target="_blank"><img src="https://img.shields.io/badge/Video--50-CLICK%20HERE-honeydew?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video"></a> 
+            <a href="https://www.youtube.com/@rajesh_data_ai" target="_blank"><img src="https://img.shields.io/badge/Video--40-CLICK%20HERE-honeydew?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video"></a> 
       </td>
       <td style="text-align: center; vertical-align: middle;"> <!-- Github Solution link--->
-         <a href="https://github.com/Rajesh-Umrao/HackerRank_SQL_Solution_Series/blob/main/50)YT_Video_Solution" target="_blank">
+         <a href="https://github.com/Rajesh-Umrao/LeetCode_SQL50" target="_blank">
          <img src="https://img.shields.io/badge/SQL-Solution-powderblue?style=for-the-badge&logo=sqlite"> </a>
       </td>
     </tr>
-  
-
+<!---------------4)Restaurant Growth ------------------------------------------------------------->   
+  <tr>
+      <td>Advanced Select & Joins </td> 
+      <td style="text-align: center; vertical-align: middle;"> <!-- Question related link--->
+            <a href="https://leetcode.com/problems/Restaurant-Growth/description/?envType=study-plan-v2&envId=top-sql-50" target="_blank">
+            <img src="https://img.shields.io/badge/Restaurant Growth-saddlebrown?style=for-the-badge&logo=LeetCode&logoColor=white"> </a>
+      </td>
+      <td style="text-align: center; vertical-align: middle;">  <!-- Youtube  link--->
+            <a href="https://www.youtube.com/@rajesh_data_ai" target="_blank"><img src="https://img.shields.io/badge/Video--41-CLICK%20HERE-honeydew?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video"></a> 
+      </td>
+      <td style="text-align: center; vertical-align: middle;"> <!-- Github Solution link--->
+         <a href="https://github.com/Rajesh-Umrao/LeetCode_SQL50" target="_blank">
+         <img src="https://img.shields.io/badge/SQL-Solution-powderblue?style=for-the-badge&logo=sqlite"> </a>
+      </td>
+    </tr>
+<!---------------5)Friend Requests II: Who Has the Most Friends ------------------------------------------------------------->   
+  <tr>
+      <td>Advanced Select & Joins </td> 
+      <td style="text-align: center; vertical-align: middle;"> <!-- Question related link--->
+            <a href="https://leetcode.com/problems/Friend-Requests-II-Who-Has-the-Most-Friends/description/?envType=study-plan-v2&envId=top-sql-50" target="_blank">
+            <img src="https://img.shields.io/badge/Friend Requests II-saddlebrown?style=for-the-badge&logo=LeetCode&logoColor=white"> </a>
+      </td>
+      <td style="text-align: center; vertical-align: middle;">  <!-- Youtube  link--->
+            <a href="https://www.youtube.com/@rajesh_data_ai" target="_blank"><img src="https://img.shields.io/badge/Video--42-CLICK%20HERE-honeydew?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video"></a> 
+      </td>
+      <td style="text-align: center; vertical-align: middle;"> <!-- Github Solution link--->
+         <a href="https://github.com/Rajesh-Umrao/LeetCode_SQL50" target="_blank">
+         <img src="https://img.shields.io/badge/SQL-Solution-powderblue?style=for-the-badge&logo=sqlite"> </a>
+      </td>
+    </tr>
+<!---------------6)Investments in 2016 ------------------------------------------------------------->   
+  <tr>
+      <td>Advanced Select & Joins </td> 
+      <td style="text-align: center; vertical-align: middle;"> <!-- Question related link--->
+            <a href="https://leetcode.com/problems/Investments-in-2016/description/?envType=study-plan-v2&envId=top-sql-50" target="_blank">
+            <img src="https://img.shields.io/badge/Investments in 2016-saddlebrown?style=for-the-badge&logo=LeetCode&logoColor=white"> </a>
+      </td>
+      <td style="text-align: center; vertical-align: middle;">  <!-- Youtube  link--->
+            <a href="https://www.youtube.com/@rajesh_data_ai" target="_blank"><img src="https://img.shields.io/badge/Video--43-CLICK%20HERE-honeydew?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video"></a> 
+      </td>
+      <td style="text-align: center; vertical-align: middle;"> <!-- Github Solution link--->
+         <a href="https://github.com/Rajesh-Umrao/LeetCode_SQL50" target="_blank">
+         <img src="https://img.shields.io/badge/SQL-Solution-powderblue?style=for-the-badge&logo=sqlite"> </a>
+      </td>
+    </tr>
+<!---------------7)Department Top Three Salaries ------------------------------------------------------------->   
+  <tr>
+      <td>Advanced Select & Joins </td> 
+      <td style="text-align: center; vertical-align: middle;"> <!-- Question related link--->
+            <a href="https://leetcode.com/problems/Department-Top-Three-Salaries/description/?envType=study-plan-v2&envId=top-sql-50" target="_blank">
+            <img src="https://img.shields.io/badge/Department Top Three Salaries-saddlebrown?style=for-the-badge&logo=LeetCode&logoColor=white"> </a>
+      </td>
+      <td style="text-align: center; vertical-align: middle;">  <!-- Youtube  link--->
+            <a href="https://www.youtube.com/@rajesh_data_ai" target="_blank"><img src="https://img.shields.io/badge/Video--44-CLICK%20HERE-honeydew?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video"></a> 
+      </td>
+      <td style="text-align: center; vertical-align: middle;"> <!-- Github Solution link--->
+         <a href="https://github.com/Rajesh-Umrao/LeetCode_SQL50" target="_blank">
+         <img src="https://img.shields.io/badge/SQL-Solution-powderblue?style=for-the-badge&logo=sqlite"> </a>
+      </td>
+    </tr>
 
 
 
