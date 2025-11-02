@@ -1,0 +1,33 @@
+🚀LEETCODE SQL 50— The Complete Roadmap to Master SQL Step-by-Step
+___________________________________________________________________
+
+Hey everyone!
+Welcome to the LeetCode SQL50 journey — a brand-new series where we’ll go through all 50 LeetCode SQL challenges with clear explanations, structured learning, and hands-on coding practice.
+
+___________________________________________________________________
+💡 What Is LeetCode SQL50?
+
+LeetCode SQL50 is a curated list of 50 SQL questions, divided into different learning domains that cover everything from beginner to advanced concepts.
+In this series, we’ll tackle each domain systematically so you can progress in a structured way and strengthen your SQL foundation.
+
+____________________________________________-
+🧭 The SQL Roadmap — 7 Domains, 50 Questions
+To make learning organized and simple, all 50 questions are grouped into seven main domains:
+
+SELECT Basics — Learn to retrieve and filter data.
+Basic JOINS — Understand how to connect multiple tables.
+Aggregate Functions — Practice using COUNT(), SUM(), AVG(), MAX(), MIN().
+Sorting and Grouping — Master ORDER BY, GROUP BY, and HAVING.
+Advanced SELECT & JOINS — Dive into conditional joins and filtering logic.
+Subqueries — Learn how to nest queries effectively.
+Advanced String Functions & Regular Expressions — Explore pattern matching and string manipulation.
+
+We’ll go in order — starting with the SELECT domain (which includes 6 questions) and moving forward step by step until we’ve completed all 50.
+
+____________________________
+⚙️ How the Series Will Work
+Each question will be covered in a separate video with: Full problem explanation, SQL query solution, Breakdown of logic and reasoning
+Discussion of common mistakes and interview tips
+
+Once the SELECT section is done, we’ll move to JOINS, then Aggregates, and so on — continuing until we finish the entire challenge list.
+
