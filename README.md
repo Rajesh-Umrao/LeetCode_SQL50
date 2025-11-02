@@ -16,7 +16,7 @@ This repository contains solutions to all LeetCode SQL problems. Each solution i
   <tbody>
       <!-- -------------------ROADMAP OF THIS SERIES-------------------------------------------------------------->   
     <tr>
-      <td>ROAD MAP</td> 
+      <td>Roadmap</td> 
       <td style="text-align: center; vertical-align: middle;"> <!-- Question related link--->
             <a href="https://leetcode.com/studyplan/top-sql-50/" target="_blank">
             <img src="https://img.shields.io/badge/LeetCode SQL50 Roadmap -red?style=for-the-badge&logo=LeetCode&logoColor=white"> </a>
