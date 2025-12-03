@@ -41,7 +41,7 @@ This repository contains solutions to all LeetCode SQL problems. Each solution i
             <a href="https://youtu.be/DhadfdZQ37s" target="_blank"> <img src="https://img.shields.io/badge/Video--2-CLICK%20HERE-blue?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video"> </a> 
       </td>
       <td style="text-align: center; vertical-align: middle;"> <!-- Github Solution link--->
-         <a href="https://github.com/Rajesh-Umrao/LeetCode_SQL50/blob/main/1)YT_Video_Solution_LeetCodeSQL50" target="_blank">
+         <a href="https://github.com/Rajesh-Umrao/LeetCode_SQL50/blob/main/2)YT_Video_Solution_LeetCodeSQL50" target="_blank">
          <img src="https://img.shields.io/badge/SQL-Solution-pale green?style=for-the-badge&logo=sqlite"> </a>
       </td>
     </tr>
