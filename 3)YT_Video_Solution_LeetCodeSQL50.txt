@@ -1,0 +1,30 @@
+🚀1)Find Customer Referee
+------------------------------------
+
+Table: Customer
++-------------+---------+
+| Column Name | Type    |
++-------------+---------+
+| id          | int     |
+| Name        | varchar |
+| referee_id  | int     |
++-------------+---------+
+In SQL, id is the primary key column for this table. 
+Each row of this table indicates the id of a customer, name, and the id of the customer who referred them. 
+
+Find the names of the customer that are either: 
+1. referred by any customer with id 21. 
+2. not referred by any customer. 
+Retum the result table in any order. 
+
+----------------------------------------
+SOLUTION-APPROACH-1
+
+	SELECT Name FROM Customer
+	Where 
+		referee_id != 2 
+		OR
+		referee_id Is NULL 
+
+
+----------------------------------------
