@@ -117,7 +117,7 @@ This repository contains solutions to all LeetCode SQL problems. Each solution i
             <a href="https://www.youtube.com/@rajesh_data_ai" target="_blank"><img src="https://img.shields.io/badge/Video--7-CLICK%20HERE-teal?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video"></a> 
       </td>
       <td style="text-align: center; vertical-align: middle;"> <!-- Github Solution link--->
-         <a href="https://github.com/Rajesh-Umrao/LeetCode_SQL50" target="_blank">
+         <a href="https://github.com/Rajesh-Umrao/LeetCode_SQL50/blob/main/6)YT_Video_Solution_LeetCodeSQL50" target="_blank">
          <img src="https://img.shields.io/badge/SQL-Solution-cyan?style=for-the-badge&logo=sqlite"> </a>
       </td>
     </tr>
