@@ -1,8 +1,41 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=195&color=0:2E1065,30:6D28D9,70:A21CAF,100:E11D48&text=LeetCode-%20SQL50%20Series&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=All%20%E2%80%A2%2050%20%E2%80%A2%20SQL%20%E2%80%94%20%20Questions%20Indexed&descAlignY=60&descSize=18" width="100%"/>
+
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/50%20Qustions-0052CC?style=for-the-badge" /> 
+  <img src="https://img.shields.io/badge/SQL%20Focused-2E86C1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <a href="https://medium.com/@rajesh_data_ai"><img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="https://youtu.be/A6WT5sw6UBA"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" /></a> 
+  <a href="https://github.com/Rajesh-Umrao"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+
+
 # LeetCode SQL50 Series Overview
 This repository contains solutions to all LeetCode SQL problems. Each solution is written with clean, optimized queries and detailed explanations to help you master core SQL concepts, improve problem-solving skills, and prepare for interviews.
 
+---
 
-## 📚 Lectures
+## 📊 Index at a Glance
+
+| Sub-Domain | Total Questions | Topic Covered |
+|:--|:--:|:--|
+| 🗃️ **Select** | 5 | SELECT, WHERE, ORDER BY |
+| 🌐 **Basic Joins** | 9 | INNER, LEFT, RIGHT JOINs |
+| 🤖 **Basic Aggregate Functions** | 8 | GROUP BY, HAVING, Aggregates |
+| 💼 **Sorting and Grouping** | 7 | Group By Order By |
+| 🐍 **Advance Select & Joins** | 7 | Subqueries, CASE, CTEs Self Join|
+| 🛠️ **Subqueries** | 7 | Sub-Queries, Recursive CTEs |
+| 🛠️ **Advance-String/Regex/Clause** | 7 | Advance String Functions, Regex |
+
+---
+
+## 📚 Full LeetCode-SQL50 Series Index
 
 <table>
   <thead>
@@ -787,15 +820,6 @@ This repository contains solutions to all LeetCode SQL problems. Each solution i
       </td>
     </tr>
 
-
-
-
-
-
-
-
-
-
    
   </tbody>
 </table>
@@ -804,23 +828,69 @@ This repository contains solutions to all LeetCode SQL problems. Each solution i
 
 
 
-
-
-
-## Connect with me:
-
-<p align="left">
-  <a href="https://www.youtube.com/@rajesh_data_ai" target="_blank"><img src="https://img.icons8.com/fluency/48/youtube-play.png" alt="" height="50"/></a>
-  <a href="https://t.me/rajesh_data_ai" target="_blank"><img src="https://img.icons8.com/color/48/telegram-app--v1.png" alt="" height="50"/></a>
-  <a href="https://www.instagram.com/rajesh_data_ai" target="_blank"><img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="" height="50"/></a>
-  <a href="https://www.facebook.com/rajesh.ai.data"" target="_blank"><img src="https://img.icons8.com/color/48/facebook.png" alt="" height="50"/></a>
-  <a href="https://x.com/rajesh_data_ai"" target="_blank"><img src="https://img.icons8.com/color/48/twitter--v1.png" alt="" height="50"/></a>
-  <a href="https://discord.gg/cFbjHE5uwz"" target="_blank"><img src="https://img.icons8.com/color/48/discord--v2.png" alt="" height="50"/></a>
-  <a href="https://medium.com/@rajesh_data_ai" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111505.png" alt="" height="50" style="background:#000; border-radius: 4px;"/></a>
-</p>
-
+---
 
 ## 🚀 How to Use  
 1. Clone the repository:  
    ```bash
    https://github.com/Rajesh-Umrao/LeetCode_SQL50.git
+
+---
+
+<!-- -------------------6)Start: Community-------------------------------------------------------------->
+
+# 🌐 Community: Connect With Me 
+
+<table>
+<tr>
+<th align="left">Platform</th>
+<th align="left">Link</th>
+</tr>
+
+<tr>
+<td>📺 YouTube</td>
+<td><a href="https://www.youtube.com/@rajesh_data_ai"><img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=YouTube"></a></td>
+</tr>
+
+<tr>
+<td>💻 WhatsApp</td>
+<td><a href="https://whatsapp.com/channel/0029VbBMAuOE50UewyMbGJ1o"><img src="https://img.shields.io/badge/WhatsApp-Join-teal?style=for-the-badge&logo=whatsapp"></a></td>
+</tr>
+
+<tr>
+<td>🌐 Telegram</td>
+<td><a href="https://t.me/rajesh_data_ai"><img src="https://img.shields.io/badge/Telegram-Join-blue?style=for-the-badge&logo=telegram"></a></td>
+</tr>
+
+<tr>
+<td>💻 Instagram</td>
+<td><a href="https://www.instagram.com/rajesh_data_ai/"><img src="https://img.shields.io/badge/Instagram-Follow-orange?style=for-the-badge&logo=instagram"></a></td>
+</tr>
+
+<tr>
+<td>🎯 Medium</td>
+<td><a href="https://medium.com/@rajesh_data_ai"><img src="https://img.shields.io/badge/Medium-Follow-black?style=for-the-badge&logo=medium"></a></td>
+</tr>
+</table>
+
+
+
+<!-- -------------------6)end: Community-------------------------------------------------------------->
+
+---
+
+<details>
+<summary><h3 style='display:inline'>✍️ Notes on This Index (click to expand)</h3></summary>
+
+- **Topic/Tags** are inferred from each article's title — flag anything mis-tagged.
+- Data pulled from a Medium account export; regenerate this file anytime new articles are published.
+
+</details>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:2E1065,30:6D28D9,70:A21CAF,100:E11D48&section=footer" width="100%"/>
+
+</div>
+
+
