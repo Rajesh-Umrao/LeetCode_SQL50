@@ -824,6 +824,14 @@ This repository contains solutions to all LeetCode SQL problems. Each solution i
   </tbody>
 </table>
 
+---
+
+## Additional Resources
+| 🗃️Question Name | 📺YouTube Video No | 🌐🔗Link |
+|:--|:--:|:--|
+| **Product Analysis I** | 8 | [View](https://rajesh-umrao.github.io/LeetCode_SQL50/Product_Sales_Analysis_YT_8.html) |
+| **Customer Who Visited** | 9 | [View](https://rajesh-umrao.github.io/LeetCode_SQL50/Customer_Who_Visited_YT_9.html) |
+
 
 
 
